@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sender/1.0.0": {
+        "dependencies": {
+          "BusinessLayer": "1.0.0"
+        },
+        "runtime": {
+          "Sender.dll": {}
+        }
+      },
+      "BusinessLayer/1.0.0": {
+        "runtime": {
+          "BusinessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sender/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
