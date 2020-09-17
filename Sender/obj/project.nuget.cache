@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "d3gggFuc4rv39KBDgpmf0neCqkKAH18wYpcOZ42VtLdv0ZJA7Ol583PUF19C3r/lTU2gEe+E/ECJ7BAxu1ZJrQ==",
+  "dgSpecHash": "mOzeKVsLa1ZT1P8dC2HGJeif6dajUlzp7kDh15CeGnC1o4xbn5oLxv0FFJFtet2iiT5dGu35MfyZkOQMSSnbug==",
   "success": true,
   "projectFilePath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\Sender.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Artyrik\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

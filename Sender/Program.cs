@@ -1,7 +1,10 @@
 ﻿using BusinessLayer;
 using BussinessLayer.BussinessModels;
 using BussinessLayer.Enums;
+using Newtonsoft.Json;
 using System;
+using System.Text;
+using System.Text.Json.Serialization;
 using System.Transactions;
 
 namespace Sender
@@ -21,6 +24,7 @@ namespace Sender
             if (!socket.IsConnected)
             {
                 var data = new TransactionProtocol();
+                var transaction = new TransactionData();
                 data.Sender_id = "1";
                 data.Request_id = random.Next().ToString();
                 data.Timestamp = DateTime.Now;
@@ -31,23 +35,27 @@ namespace Sender
                 data.Type_message = (MessageType)Enum.Parse(typeof(MessageType), typemessage);
                 //---------------------
                 Console.Write("Enter owner card id: ");
-                data.Transaction.Owner_card_id = Console.ReadLine();
+                transaction.Owner_card_id = Console.ReadLine();
 
                 Console.Write("Enter receiver card id:  ");
-                data.Transaction.Recipient_card_id = Console.ReadLine();
+                transaction.Recipient_card_id = Console.ReadLine();
                 //-----TransactionType-----
                 Console.Write("Enter transaction type: ");
                 transactiontype = Console.ReadLine();
-                data.Transaction.transactionType=(TransactionType)Enum.Parse(typeof(TransactionType), transactiontype);
+                transaction.transactionType=(TransactionType)Enum.Parse(typeof(TransactionType), transactiontype);
                 //---------------------
                 Console.Write("Enter currency: ");
-                data.Transaction.Ccy = Console.ReadLine();
+                transaction.Ccy = Console.ReadLine();
 
                 Console.Write("Enter transaction sum: ");
-                data.Transaction.Transaction_summ = Convert.ToInt32(Console.ReadLine());
+                transaction.Transaction_summ = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Enter aditional comment: ");
-                data.Transaction.Aditional_comment = Console.ReadLine();
+                transaction.Aditional_comment = Console.ReadLine();
+                data.Transaction = JsonConvert.SerializeObject(transaction);
+                var dataserial = JsonConvert.SerializeObject(data);
+                byte[] databyte = Encoding.UTF8.GetBytes(dataserial);
+                socket.Send(databyte);
             }
             Console.ReadLine();
         }
