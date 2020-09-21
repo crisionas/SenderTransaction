@@ -1,4 +1,4 @@
-﻿using BusinessLayer;
+﻿
 using BussinessLayer.BussinessModels;
 using BussinessLayer.Enums;
 using Newtonsoft.Json;
@@ -52,6 +52,7 @@ namespace Sender
 
                 Console.Write("Enter aditional comment: ");
                 transaction.Aditional_comment = Console.ReadLine();
+
                 data.Transaction = JsonConvert.SerializeObject(transaction);
                 var dataserial = JsonConvert.SerializeObject(data);
                 byte[] databyte = Encoding.UTF8.GetBytes(dataserial);
