@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\BusinessLayer.csproj": {}
+    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\BusinessLayer.csproj",
-        "projectName": "BusinessLayer",
-        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
         "packagesPath": "C:\\Users\\Artyrik\\.nuget\\packages\\",
         "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",

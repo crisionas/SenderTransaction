@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj",
-      "projectName": "BusinessLayer",
-      "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj",
+      "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
+      "projectName": "Domain",
+      "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
       "packagesPath": "C:\\Users\\Artyrik\\.nuget\\packages\\",
-      "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\obj\\",
+      "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

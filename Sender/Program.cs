@@ -14,14 +14,14 @@ namespace Sender
         static void Main(string[] args)
         {
             var random = new Random();
-            string typemessage, transactiontype;
+            string transactiontype;
 
             Console.WriteLine("Sender is ON!");
             var socket = new SocketSender();
 
-            socket.Connect(Settings.ipAddress, Settings.port);
+            socket.Connect(Common.ipAddress, Common.port);
 
-            if (!socket.IsConnected)
+            if (socket.IsConnected)
             {
                 var data = new TransactionProtocol();
                 var transaction = new TransactionData();
@@ -29,10 +29,8 @@ namespace Sender
                 data.Request_id = random.Next().ToString();
                 data.Timestamp = DateTime.Now;
                 Console.WriteLine("\n\t-----Hello! Please enter details for transaction-----\n");
-                //-----MessageType-----
-                Console.Write("Type of action \n \tGive = 1 \n \tResponse = 2 \n \tAdd = 3 \n Option:");
-                typemessage = Console.ReadLine();
-                data.Type_message = (MessageType)Enum.Parse(typeof(MessageType), typemessage);
+
+                data.Type_message = MessageType.add;
                 //---------------------
                 Console.Write("Enter owner card id: ");
                 transaction.Owner_card_id = Console.ReadLine();
@@ -42,7 +40,7 @@ namespace Sender
                 //-----TransactionType-----
                 Console.Write("Enter transaction type: ");
                 transactiontype = Console.ReadLine();
-                transaction.transactionType=(TransactionType)Enum.Parse(typeof(TransactionType), transactiontype);
+                transaction.transactionType = (TransactionType)Enum.Parse(typeof(TransactionType), transactiontype);
                 //---------------------
                 Console.Write("Enter currency: ");
                 transaction.Ccy = Console.ReadLine();

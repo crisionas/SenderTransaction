@@ -1,0 +1,9 @@
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\Domain.pdb

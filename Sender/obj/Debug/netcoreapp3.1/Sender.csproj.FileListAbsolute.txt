@@ -15,3 +15,37 @@ D:\Visual Projects\UTM\PAD\Lab1\Sender\Sender\bin\Debug\netcoreapp3.1\BusinessLa
 D:\Visual Projects\UTM\PAD\Lab1\Sender\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
 D:\Visual Projects\UTM\PAD\Lab1\Sender\Sender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 D:\Visual Projects\UTM\PAD\Lab1\Sender\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.pdb
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.exe
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.deps.json
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.json
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.runtimeconfig.dev.json
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Sender.pdb
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.csproj.CopyComplete
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\obj\Debug\netcoreapp3.1\Sender.genruntimeconfig.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\Sender\bin\Debug\netcoreapp3.1\Domain.pdb

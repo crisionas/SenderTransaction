@@ -14,6 +14,7 @@ namespace BussinessLayer.BussinessModels
         public MessageType Type_message { get; set; }
         public string Transaction { get; set; }
         public DateTime Timestamp { get; set; }
+        public string Message { get; set; }
 
     }
 }

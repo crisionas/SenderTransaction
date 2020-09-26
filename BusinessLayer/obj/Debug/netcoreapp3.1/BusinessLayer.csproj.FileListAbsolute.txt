@@ -7,3 +7,21 @@ D:\Visual Projects\UTM\PAD\Lab1\Sender\BusinessLayer\obj\Debug\netcoreapp3.1\Bus
 D:\Visual Projects\UTM\PAD\Lab1\Sender\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
 D:\Visual Projects\UTM\PAD\Lab1\Sender\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
 D:\Visual Projects\UTM\PAD\Lab1\Sender\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Univer\ANUL4\PAD\Sender_Cristi\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Visual Projects\UTM\PAD\Lab1\SenderTransaction\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

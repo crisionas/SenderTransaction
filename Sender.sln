@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{882ABBCC-1F92-4E7E-9115-D350A2808812}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sender", "Sender\Sender.csproj", "{882ABBCC-1F92-4E7E-9115-D350A2808812}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{236EE7D0-B9A8-4E74-9CC4-DB1EBB157C87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "BusinessLayer\Domain.csproj", "{236EE7D0-B9A8-4E74-9CC4-DB1EBB157C87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

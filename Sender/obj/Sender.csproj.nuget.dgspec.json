@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\Sender.csproj": {}
+    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\Sender\\Sender.csproj": {}
   },
   "projects": {
-    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj": {
+    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj",
-        "projectName": "BusinessLayer",
-        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj",
         "packagesPath": "C:\\Users\\Artyrik\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\obj\\",
+        "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -55,18 +55,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\Sender.csproj": {
+    "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\Sender\\Sender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\Sender.csproj",
+        "projectUniqueName": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\Sender\\Sender.csproj",
         "projectName": "Sender",
-        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\Sender.csproj",
+        "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\Sender\\Sender.csproj",
         "packagesPath": "C:\\Users\\Artyrik\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\Sender\\obj\\",
+        "outputPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\Sender\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -85,8 +85,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj": {
-                "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\Sender\\BusinessLayer\\BusinessLayer.csproj"
+              "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj": {
+                "projectPath": "D:\\Visual Projects\\UTM\\PAD\\Lab1\\SenderTransaction\\BusinessLayer\\Domain.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
